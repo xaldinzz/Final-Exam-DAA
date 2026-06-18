@@ -21,5 +21,7 @@ We systematically compare two routing strategies to evaluate quality-versus-spee
 
 *Note: All core algorithmic logic, adjacency lists, and priority heap queues are coded natively from scratch without reliance on network graph libraries (e.g., NetworkX) to guarantee structural ownership[cite: 31, 32].*
 
+Output: 
 
+![imagealt]()
 
