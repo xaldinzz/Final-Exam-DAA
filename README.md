@@ -23,5 +23,5 @@ We systematically compare two routing strategies to evaluate quality-versus-spee
 
 Output: 
 
-![imagealt]()
+![imagealt](https://github.com/xaldinzz/Final-Exam-DAA/blob/main/image/Screenshot%202026-06-18%20184916.png?raw=true)
 
